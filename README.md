@@ -14,3 +14,29 @@ Simple Interest = (Principal × Rate × Time) / 100
 
 ```bash
 ./simple-interest.sh
+Requirements
+
+    Bash shell
+    Basic arithmetic operations
+
+Installation
+
+    Clone the repository
+    Make the script executable: chmod +x simple-interest.sh
+    Run the script: ./simple-interest.sh
+
+Contributing
+
+Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
+License
+
+This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
+Authors
+
+   Panashe Matengambiri - Initial work
+
+Acknowledgments
+
+    Micro-finance startup team
+    Open source community
+
