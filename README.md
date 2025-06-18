@@ -10,22 +10,18 @@ This project contains a simple bash script that calculates simple interest given
 
 Simple Interest = (Principal × Rate × Time) / 100
 
-## Usage
-
-```bash
-./simple-interest.sh
-Requirements
+## Requirements
 
     Bash shell
     Basic arithmetic operations
 
-Installation
+## Installation
 
     Clone the repository
     Make the script executable: chmod +x simple-interest.sh
     Run the script: ./simple-interest.sh
 
-Contributing
+## Contributing
 
 Please read CONTRIBUTING.md for details on our code of conduct and the process for submitting pull requests.
 License
@@ -35,8 +31,12 @@ Authors
 
    Panashe Matengambiri - Initial work
 
-Acknowledgments
+## Acknowledgments
 
     Micro-finance startup team
     Open source community
 
+## Usage
+
+```bash
+./simple-interest.sh
