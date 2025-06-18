@@ -16,7 +16,6 @@ Thank you for your interest in contributing to our project! This document provid
 ### Making Changes
 
 1. **Fork the repository**
-
 2. **Create a feature branch**
    ```bash
    git checkout -b feature-name
